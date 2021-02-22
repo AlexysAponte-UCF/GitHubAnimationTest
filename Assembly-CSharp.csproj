@@ -44,7 +44,7 @@
     <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
-  <ItemGroup>     <Compile Include="Assets\au.cs" />
+  <ItemGroup>     <Compile Include="Assets\Scripts\au.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/owlin/Desktop/git/Tutorial 1.5/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
